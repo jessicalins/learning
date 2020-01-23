@@ -1,1 +1,0 @@
-/home/jessica/workspace/learning/programming/rust/lists/target/debug/liblists.rlib: /home/jessica/workspace/learning/programming/rust/lists/src/first.rs /home/jessica/workspace/learning/programming/rust/lists/src/lib.rs
